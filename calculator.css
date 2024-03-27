@@ -1,0 +1,22 @@
+#s1{
+  width:200px ;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+#display{
+  margin: 10px;
+  width: 85%;
+}
+.s2{
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+}
+
+.s3{
+  width: 50px;
+  height: 50px;
+  background-color: rgb(214, 208, 208);
+  margin: 2px;
+}
